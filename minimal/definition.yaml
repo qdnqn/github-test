@@ -3,6 +3,8 @@ kind: containers
 meta:
   group: example
   name: busybox
+  labels:
+    test: test
 spec:
   image: busybox
   tag: latest
