@@ -1,0 +1,9 @@
+prefix: simplecontainer.io/v1
+kind: gitops
+meta:
+  group: examples
+  name: plain-manual-spread
+spec:
+  repoURL: "https://github.com/qdnqn/github-test"
+  revision: "main"
+  directoryPath: "/minimal-cluster-demo"

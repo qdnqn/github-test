@@ -1,0 +1,10 @@
+prefix: simplecontainer.io/v1
+kind: gitops
+meta:
+  group: examples
+  name: plain-auto
+spec:
+  repoURL: "https://github.com/qdnqn/github-test"
+  revision: "main"
+  automaticSync: true
+  directoryPath: "/minimal"

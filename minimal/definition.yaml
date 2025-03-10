@@ -1,0 +1,11 @@
+prefix: simplecontainer.io/v1
+kind: containers
+meta:
+  group: example
+  name: busybox
+spec:
+  image: busybox
+  tag: latest
+  replicas: 2
+  entrypoint: ["sleep"]
+  args: ["3600"]
