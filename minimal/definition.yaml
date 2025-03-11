@@ -2,7 +2,7 @@ prefix: simplecontainer.io/v1
 kind: containers
 meta:
   group: example
-  name: bb
+  name: bb222
   labels:
     test: test
 spec:
