@@ -1,8 +1,8 @@
 prefix: simplecontainer.io/v1
 kind: containers
 meta:
-  group: examples
-  name: bb2xxxxx
+  group: examplesaa
+  name: bb2xxxxxxx
   labels:
     test: test
 spec:
