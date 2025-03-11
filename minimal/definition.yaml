@@ -2,7 +2,7 @@ prefix: simplecontainer.io/v1
 kind: containers
 meta:
   group: example
-  name: busybox
+  name: busybox2222
   labels:
     test: test
 spec:
