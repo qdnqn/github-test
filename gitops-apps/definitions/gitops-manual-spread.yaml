@@ -4,6 +4,6 @@ meta:
   group: examples
   name: plain-manual-spread
 spec:
-  repoURL: "https://github.com/qdnqn/github-test"
+  repoURL: "https://github.com/simplecontainer/examples"
   revision: "main"
-  directoryPath: "/minimal-cluster-demo"
+  directoryPath: "/tests/minimal-cluster-demo"

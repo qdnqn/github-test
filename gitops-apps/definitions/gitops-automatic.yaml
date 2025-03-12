@@ -4,7 +4,7 @@ meta:
   group: examples
   name: plain-auto
 spec:
-  repoURL: "https://github.com/qdnqn/github-test"
+  repoURL: "https://github.com/simplecontainer/examples"
   revision: "main"
   automaticSync: true
-  directoryPath: "/minimal"
+  directoryPath: "/tests/minimal"

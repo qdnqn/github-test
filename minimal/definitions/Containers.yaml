@@ -1,10 +1,8 @@
 prefix: simplecontainer.io/v1
 kind: containers
 meta:
-  group: examplesaa
-  name: bb333xxxx222
-  labels:
-    test: test
+  group: example
+  name: busybox
 spec:
   image: busybox
   tag: latest
